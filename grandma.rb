@@ -5,7 +5,8 @@ def speak_to_grandma(phrase)
     "I LOVE YOU TOO PUMPKIN!"
   else
     "HUH?! SPEAK UP, SONNY!"
-end 
+  end 
+end
 
 # Whatever you say to grandma, she should respond with
 # HUH?! SPEAK UP, SONNY!
